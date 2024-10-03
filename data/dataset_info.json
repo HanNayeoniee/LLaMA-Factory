@@ -8,6 +8,15 @@
   "alpaca_zh_demo": {
     "file_name": "alpaca_zh_demo.json"
   },
+  "alpaca_ko": {
+    "file_name": "ko_alpaca_data.json"
+  },
+  "alpaca_ko_small": {
+    "file_name": "ko_alpaca_data_2000.json"
+  },
+  "alpaca_ko_medium": {
+    "file_name": "ko_alpaca_data_20000.json"
+  },
   "glaive_toolcall_en_demo": {
     "file_name": "glaive_toolcall_en_demo.json",
     "formatting": "sharegpt",
